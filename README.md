@@ -2,9 +2,9 @@
 
 **there's some imaginative use of cross-fading**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![3rd project demo view](https://github.com/user-attachments/assets/bed31435-c387-4736-8a72-97eb0c76bf9f)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+
 
 - [Demo Project](https://rahimitabarshiva.github.io/CSS-hover-image-crossfading/)
 
